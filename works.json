@@ -220,18 +220,6 @@
    "h": 1500
   },
   {
-   "id": "i076",
-   "type": "image",
-   "cat": "design",
-   "title": "Hot Sauce",
-   "sub": "تصميم إعلان منتج",
-   "tag": "AD",
-   "visible": true,
-   "src": "media/i076.webp",
-   "w": 1500,
-   "h": 844
-  },
-  {
    "id": "iN5",
    "type": "image",
    "cat": "photo",
@@ -267,18 +255,6 @@
    "src": "media/i118.webp",
    "w": 1000,
    "h": 1500
-  },
-  {
-   "id": "i085",
-   "type": "image",
-   "cat": "design",
-   "title": "أزياء المحافظات السورية",
-   "sub": "حملة «نسيج قصتنا»",
-   "tag": "DESIGN",
-   "visible": true,
-   "src": "media/i085.webp",
-   "w": 1080,
-   "h": 1440
   },
   {
    "id": "i009",
@@ -341,19 +317,6 @@
    "src": "media/i124.webp",
    "w": 1500,
    "h": 1000
-  },
-  {
-   "id": "v141",
-   "type": "video",
-   "cat": "video",
-   "title": "تحرير الجزيرة",
-   "sub": "برومو",
-   "tag": "PROMO",
-   "visible": true,
-   "src": "media/v141.mp4",
-   "poster": "media/t141.jpg",
-   "preview": "media/p141.mp4",
-   "dur": 54
   },
   {
    "id": "iN7",
@@ -480,18 +443,6 @@
    "dur": 95
   },
   {
-   "id": "i111",
-   "type": "image",
-   "cat": "design",
-   "title": "أزياء حلب",
-   "sub": "حملة «نسيج قصتنا»",
-   "tag": "DESIGN",
-   "visible": true,
-   "src": "media/i111.webp",
-   "w": 1080,
-   "h": 1440
-  },
-  {
    "id": "v156",
    "type": "video",
    "cat": "reel",
@@ -591,18 +542,6 @@
    "dur": 55
   },
   {
-   "id": "i075",
-   "type": "image",
-   "cat": "design",
-   "title": "Sony FX30",
-   "sub": "تصميم إعلان كاميرا",
-   "tag": "AD",
-   "visible": true,
-   "src": "media/i075.webp",
-   "w": 1500,
-   "h": 844
-  },
-  {
    "id": "v000",
    "type": "video",
    "cat": "video",
@@ -688,30 +627,6 @@
    "poster": "media/t145.jpg",
    "preview": "media/p145.mp4",
    "dur": 29
-  },
-  {
-   "id": "i071",
-   "type": "image",
-   "cat": "design",
-   "title": "شعار الخياط",
-   "sub": "تصميم شعار",
-   "tag": "LOGO",
-   "visible": true,
-   "src": "media/i071.webp",
-   "w": 1377,
-   "h": 768
-  },
-  {
-   "id": "i041",
-   "type": "image",
-   "cat": "design",
-   "title": "الحكم القضائي",
-   "sub": "سلسلة كاروسيل توعوية",
-   "tag": "DESIGN",
-   "visible": true,
-   "src": "media/i041.webp",
-   "w": 1200,
-   "h": 1500
   },
   {
    "id": "i022",
