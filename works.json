@@ -641,19 +641,6 @@
    "h": 1080
   },
   {
-   "id": "v144",
-   "type": "video",
-   "cat": "video",
-   "title": "ملامح الذاكرة الشركسية",
-   "sub": "برومو وثائقي · تصوير 4K",
-   "tag": "PROMO",
-   "visible": true,
-   "src": "media/v144.mp4",
-   "poster": "media/t144.jpg",
-   "preview": "media/p144.mp4",
-   "dur": 77
-  },
-  {
    "id": "i070",
    "type": "image",
    "cat": "design",
